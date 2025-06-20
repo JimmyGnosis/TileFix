@@ -1,5 +1,5 @@
 # TileFix
-A small graphics mod for Duke Nukem 3D, aiming to beautify the game. Free to use for any purpose, including use in mods for Duke Nukem 3D or other games. I only ask that you give credit where it is due.
+A small graphics mod for Duke Nukem 3D, aiming to beautify and enhance the game. The project has entailed cleaning up dirty coloring/stray pixels, extending screen tiles horizontally for widescreen compatibility, extending some screen tiles vertically to provide extra cover for screenbob, creating missing animation frames for back rotations, etc. Some small liberties have been taken here or there, but fit within the scope of the game's vision. For some tiles, there are optional alternate versions closer to the original art. This mod is free to use for any purpose, including use in mods for Duke Nukem 3D or other games. I only ask that you give credit where it is due.
 
 # Credits
 All tiles are edited or otherwise created by Jimmy Gnosis, based off of original tiles created by 3D Realms except for:
