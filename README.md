@@ -7,7 +7,7 @@ All tiles are edited or otherwise created by Jimmy Gnosis, based off of original
 21 (pistol pickup) - Sprite dumped from voxel created by ReaperMan  
 2524-2526 (pistol idle and firing) - Contains some graphics from Duke Nukem 64 created by Eurocom  
 2531 (reloading pistol magazine) - Contains some graphics from Duke Nukem 64 created by Eurocom  
-2544 (RPG idle frame) - I believe this tile might have been made Fox, or if not, by myself with help from Hendricks266. I can't remember.  
+2544 (RPG idle frame) - Based off tile from the aborted Hail to the King port, I believe made by Fox.  
 2570-2572 (pipebomb detonator) - Contains some graphics from Duke Nukem 64 created by Eurocom  
 3413-3415 (fire truck) - Contains some graphics from Duke Nukem 64 created by Eurocom  
 
