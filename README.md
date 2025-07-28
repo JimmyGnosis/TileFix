@@ -4,7 +4,7 @@ A small graphics mod for Duke Nukem 3D, aiming to beautify and enhance the game.
 
 
 
-Interestingly, during the course of doing this I found that some textures from LameDuke actually had better color depth than textures that ended up in the final game. Retaining or increasing color depth in all edits was a high priority. Some small liberties have been taken here or there, mostly logic fixes that fit within the scope of the game's vision. For some tiles, there are optional alternate versions closer to the original art. This mod is free to use for any purpose, including use in mods for Duke Nukem 3D or other games. I only ask that you give credit where it is due.
+Some small liberties have been taken here or there, mostly logic fixes that fit within the scope of the game's vision. For some tiles, there are optional alternate versions closer to the original art. This mod is free to use for any purpose, including use in mods for Duke Nukem 3D or other games. I only ask that you give credit where it is due.
 
 # Credits
 
@@ -24,4 +24,6 @@ Construction Time: TileFix officially began development in April of 2025. Some o
 Known Bugs/Problems: May introduce graphical issues with user maps that contain creative texture or sprite work. It should not introduce issues to the base game.
 
 # Installation \& Notes
+
+Interestingly, during the course of doing this I found that some textures from LameDuke actually had better color depth than textures that ended up in the final game. Retaining or increasing color depth in all edits was a high priority.
 
