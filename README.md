@@ -25,7 +25,8 @@ Big thanks to everyone in the Duke4.net community, without whom this project wou
 
 # Construction
 
-Editors Used: Adobe Photoshop CS6, MeeSoft's Image Analyzer, IrfanView, LibreSprite, BAFEd, EditArt, Magica Voxel, Qubicle
+Editors Used: Adobe Photoshop CS6, MeeSoft's Image Analyzer, IrfanView, LibreSprite, BAFEd, EditArt, Magica Voxel
+
 Construction Time: TileFix officially began development in April of 2025. Some of these tiles I edited in the past ten years or so.  
 Known Bugs/Problems: May introduce graphical issues with user maps that contain creative texture or sprite work. It should not introduce issues to the base game.
 
