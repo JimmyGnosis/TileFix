@@ -1,6 +1,6 @@
 # TileFix
 
-A small graphics mod for Duke Nukem 3D, aiming to beautify and enhance the game. The project has entailed cleaning up dirty coloring/stray pixels, extending screen tiles horizontally for widescreen compatibility, extending some screen tiles vertically to provide extra cover for screenbob, creating missing animation frames for back rotations, etc.
+A small graphics mod for Duke Nukem 3D, aiming to beautify and enhance the game. The project has entailed cleaning up dirty coloring/stray pixels, extending screen tiles horizontally for widescreen compatibility, extending some screen tiles vertically to provide extra cover for screenbob, creating missing animation frames for back rotations, etc. A bonus feature is the restoration of an unused item, AMMOLOTS (tile #48), which had no art but complete programming. I do not believe this item has been placed anywhere in the game, and it is unlikely any usermaps have used it either. The item will give the player 48 pistol ammo.
 
 
 
@@ -13,6 +13,8 @@ All tiles are edited or otherwise created by Jimmy Gnosis, based off of original
 
 
 21 (pistol pickup) - Sprite dumped from voxel created by ReaperMan  
+
+48 (AMMOLOTS) - Borrowed graphic from Shadow Warrior Beta
 2524-2526 (pistol idle and firing) - Contains some graphics from Duke Nukem 64 created by Eurocom  
 2531 (reloading pistol magazine) - Contains some graphics from Duke Nukem 64 created by Eurocom  
 2544 (RPG idle frame) - Based off tile from the aborted Hail to the King port, I believe made by Fox. Some elements recreated from LameDuke tile.
