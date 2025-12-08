@@ -17,10 +17,15 @@ All tiles are edited or otherwise created by Jimmy Gnosis, based off of original
 48 (AMMOLOTS) - Borrowed graphic from Shadow Warrior Beta
 
 860,861,4954 - Contain some visual improvements from Shadow Warrior
+
 2524-2526 (pistol idle and firing) - Contains some graphics from Duke Nukem 64 created by Eurocom  
+
 2531 (reloading pistol magazine) - Contains some graphics from Duke Nukem 64 created by Eurocom  
+
 2544 (RPG idle frame) - Based off tile from the aborted Hail to the King port, I believe made by Fox. Some elements recreated from LameDuke tile.
+
 2570-2572 (pipebomb detonator) - Contains some graphics from Duke Nukem 64 created by Eurocom  
+
 3413-3415 (fire truck) - Contains some graphics from Duke Nukem 64 created by Eurocom
 
 
