@@ -1,4 +1,3 @@
-48 (Ammo Lots) - Create new tile? Use pre-release? (Ugly)
 226/227/228/883 - Compare, 226 fix logo
 277/498 - Compare
 285/286 - Compare
@@ -12,9 +11,7 @@
 479 - Cleanup
 620 - Cleanup
 640-649 - Cleanup
-794 - Window?
 813 - Cleanup
 856 - Cleanup
 871-872 - Balls of Steel?
-917 - Cleanup
 946-948 - Cleanup
