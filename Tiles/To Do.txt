@@ -1,11 +1,12 @@
 226/227/228/883 - Compare, 226 fix logo
+253 - Increase color depth
 277/498 - Compare
 285/286 - Compare
 288-291 - Compare
 392 - Cleanup
 393 - Cleanup
 394 - Cleanup
-421 - Cleanup
+421-423 - Cleanup
 470 - Cleanup
 476 - Cleanup
 479 - Cleanup
@@ -15,3 +16,6 @@
 856 - Cleanup
 871-872 - Balls of Steel?
 946-948 - Cleanup
+
+Censorship
+Extra Gore/Blood
