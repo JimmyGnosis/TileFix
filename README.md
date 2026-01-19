@@ -16,7 +16,7 @@ All tiles are edited or otherwise created by Jimmy Gnosis, based off of original
 
 48 (AMMOLOTS) - Borrowed graphic from Shadow Warrior Beta
 
-766,963-965 - Contains some visual improvements from the Nudie Patch by the Mechanic
+568, 577, 766, 963-965, 1323 - Contains some visual improvements from the Nudie Patch by the Mechanic
 
 860,861,4954 - Contain some visual improvements from Shadow Warrior
 
