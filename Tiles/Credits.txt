@@ -1,0 +1,39 @@
+All tiles are edited or otherwise created by Jimmy Gnosis, based off of original tiles created by 3D Realms/etc except for:
+
+
+Duke Nukem 3D Atomic Edition:
+21 - Sprite dumped from voxel created by ReaperMan
+48 - Borrowed/modified graphic from Shadow Warrior Beta
+120, 121, 702 - Contains some visual improvements from Duke Nukem 64 created by Eurocom
+568, 577, 766, 963-965, 1054, 1074, 1323 - Contains some visual improvements from the Nudie Patch by the Mechanic
+860, 861, 4954 - Contain some visual improvements from Shadow Warrior
+908, 910 - Partially recreated from source images
+966 - Recreated from original cover
+1960,etc - Uses some graphics from Rise of the Triad
+2333-2348 - Recreated from Rise of the Triad
+2524-2526 - Contains some graphics from Duke Nukem 64 created by Eurocom
+2531 - Contains some graphics from Duke Nukem 64 created by Eurocom
+2544 - Based off tile from the aborted Hail to the King port, I believe made by Fox. Some elements recreated from LameDuke tile
+2548 - Some elements from publicly available pre-release materials used
+2570-2572 - Contains some graphics from Duke Nukem 64 created by Eurocom
+3413-3415 - Contains some graphics from Duke Nukem 64 created by Eurocom
+
+DukeZone! 2 / Nuclear Winter:
+3726 - Recreated using some elements from larger tile in LameDuke to mitigate repetition
+2493 - Highres art from Megaton Edition
+
+Penthouse Paradise:
+0932, 935 - Converted and edited from Duke Nukem: Zero Hour created by Eurocom
+0965 - Sourced from Penthouse porno cover, clip from that film is playing in theater
+1054 - Sourced from May 1997 Penthouse cover-girl shoot with Claudia Bajmlova
+3621 - Contains borrowed graphic from Shadow Warrior
+3624 - Contains some borrowed/modified graphic from Duke Nukem: Total Meltdown by Aarvark Software
+3682 - Original image sourced from developer's archived website and recreated
+3687 - Sourced from Penthouse Pet of the Month January 1993 shoot with Natalie Lennox
+3688 - Sourced from Penthouse Pet of the Month December 1987 shoot with Janine Lindemulder
+
+
+
+Big thanks to everyone in the Duke4.net community, without whom this project would not have been possible. The extent of knowledge and ability to find information among it's members are invaluable and contributed greatly to this project.
+
+Special thanks to Marphy Black, and the entire EDuke32 team, especially Hendricks266.
