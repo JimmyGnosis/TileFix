@@ -1,4 +1,4 @@
-All tiles are edited or otherwise created by Jimmy Gnosis, based off of original tiles created by 3D Realms/etc except for:
+All tiles are edited or otherwise created by Jimmy Gnosis, based off of original tiles created by 3D Realms except for:
 
 
 Duke Nukem 3D Atomic Edition:
@@ -14,7 +14,7 @@ Duke Nukem 3D Atomic Edition:
 2524-2526 - Contains some graphics from Duke Nukem 64 created by Eurocom
 2531 - Contains some graphics from Duke Nukem 64 created by Eurocom
 2544 - Based off tile from the aborted Hail to the King port, I believe made by Fox. Some elements recreated from LameDuke tile
-2548 - Some elements from publicly available pre-release materials used
+2548 - Some elements from publicly available pre-release materials
 2570-2572 - Contains some graphics from Duke Nukem 64 created by Eurocom
 3413-3415 - Contains some graphics from Duke Nukem 64 created by Eurocom
 
@@ -24,11 +24,13 @@ DukeZone! 2 / Nuclear Winter:
 
 Penthouse Paradise:
 0932, 935 - Converted and edited from Duke Nukem: Zero Hour created by Eurocom
-0965 - Sourced from Penthouse porno cover, clip from that film is playing in theater
+0965 - Sourced from "Ready to Ride" Penthouse porno VHS cover, clip from that film is playing in theater
 1054 - Sourced from May 1997 Penthouse cover-girl shoot with Claudia Bajmlova
+3614, 3683 - Recreated from hi-res scan of Penthouse May 1997 issue
 3621 - Contains borrowed graphic from Shadow Warrior
-3624 - Contains some borrowed/modified graphic from Duke Nukem: Total Meltdown by Aarvark Software
+3624 - Contains some borrowed/modified graphic from Duke Nukem: Total Meltdown by Aardvark Software
 3682 - Original image sourced from developer's archived website and recreated
+3686 - Recreated using various sources including archived shadowwarrior.com
 3687 - Sourced from Penthouse Pet of the Month January 1993 shoot with Natalie Lennox
 3688 - Sourced from Penthouse Pet of the Month December 1987 shoot with Janine Lindemulder
 
